@@ -1,8 +1,8 @@
-# InventoryOS — Inventory & Order Management System
+# InventoryOS - Inventory & Order Management System
 
-A full-stack inventory and order management system: **React** (Vite) frontend, **FastAPI** backend, **PostgreSQL** database, fully Dockerized.
+I have made a full stack inventory and order management system: **React** (Vite) frontend, **FastAPI** backend, **PostgreSQL** database, fully Dockerized.
 
-## Stack
+## Stack Used for this project
 
 | Layer     | Technology                  |
 |-----------|------------------------------|
